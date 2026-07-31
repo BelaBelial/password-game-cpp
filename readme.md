@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org)
 
 # Password Guessing Game In C++ (Jogo de Adivinhação da Senha em C++)
 > *Feito apenas para fins educacionais*
