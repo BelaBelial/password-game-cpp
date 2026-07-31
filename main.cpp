@@ -1,13 +1,13 @@
 #include <iostream>
 #include <string>
 #include <cstdlib>
-#include <ctime> //para a semente no tempo unix (1/1/1970)
-#include <chrono> 
+//#include <ctime> 
+#include <chrono> //para a semente no tempo unix (1/1/1970) 
 
 using namespace std;
 using namespace chrono;
 
-const string characters = "abcdefghijklmnopwqrstuvwxyz";
+const string characters = "abcdefghijklmnopqrstuvwxyz";
 
 const int max_len = 9;
 const int min_len = 3;
